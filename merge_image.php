@@ -104,7 +104,6 @@ if (!function_exists('merge_images')) {
             //删除更改图片高度的文件
             @unlink($s_path);
 
-
         }
         return true;
     }
